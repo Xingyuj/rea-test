@@ -7,7 +7,7 @@
 
 	npm install
 	
-### start server
+### Start server
 	
 	npm start
 	
